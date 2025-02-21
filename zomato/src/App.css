@@ -166,22 +166,21 @@
   border-bottom-right-radius: 5px;
 }
 .one_collection{
-  background-image: url('../../public/zomato.avif');
+  background-image: url('https://res.cloudinary.com/dqgrcovgg/image/upload/v1740112127/zomato_uudlva.avif');
   background-size: 100% 100%;
 }
 .two_collection{
-  background-image: url('../../public/zomato1.avif');
+  background-image: url('https://res.cloudinary.com/dqgrcovgg/image/upload/v1740112127/zomato1_b6fd5j.avif');
   background-size: 100% 100%; 
 }
 .third_collection{
-  background-image: url('../../public/zomato2.avif');
+  background-image: url('https://res.cloudinary.com/dqgrcovgg/image/upload/v1740112127/zomato2_qfgbmx.avif');
   background-size: 100% 100%; 
 }
 .four_collection{
-  background-image: url('../../public/zomato3.avif');
+  background-image: url('https://res.cloudinary.com/dqgrcovgg/image/upload/v1740112128/zomato3_w6galn.avif');
   background-size: 100% 100%; 
 }
-
 
 /* third section */
 
